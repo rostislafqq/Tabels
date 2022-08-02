@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tabels/static/css/main.e16db954.css",
+    "main.js": "/Tabels/static/js/main.996ef953.js",
+    "static/media/8.gif": "/Tabels/static/media/8.0f2c83efc9619b014755.gif",
+    "index.html": "/Tabels/index.html",
+    "main.e16db954.css.map": "/Tabels/static/css/main.e16db954.css.map",
+    "main.996ef953.js.map": "/Tabels/static/js/main.996ef953.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16db954.css",
+    "static/js/main.996ef953.js"
+  ]
+}
